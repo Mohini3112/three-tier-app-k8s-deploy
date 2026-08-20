@@ -5,12 +5,13 @@ metadata:
   name: yelp-camp-secrets
 type: Opaque
 data:
-  CLOUDINARY_CLOUD_NAME=rtrkpnty
-  CLOUDINARY_KEY=884544161213149
-  CLOUDINARY_SECRET=D3ldBYsGbNO-LRsQjUq2uKfOmQk
+  CLOUDINARY_CLOUD_NAME=cnRya3BudHkK
+  CLOUDINARY_KEY=ODg0NTQ0MTYxMjEzMTQ5Cg==
+  CLOUDINARY_SECRET=RDNsZEJZc0diTk8tTFJzUWpVcTJ1S2ZPbVFrCg==
   MAPBOX_TOKEN=sk.eyJ1IjoibmFyYXlhbi0zMSIsImEiOiJjbXQxNHcxZnkwYmR1MzBza3V5dGtobzMwIn0.JicSODSYNQOwI8kM_rIflA
-  DB_URL="mongodb+srv://narayanchaudhari2004_db_user:1pG0ettKx93fYAuv@devops-db.93zq4ms.mongodb.net/?appName=Devops-db"
-  SECRET=devopsshack
+  DB_URL="bW9uZ29kYitzcnY6Ly9uYXJheWFuY2hhdWRoYXJpMjAwNF9kYl91c2VyOjFwRzBldHRLeDkzZllB
+dXZAZGV2b3BzLWRiLjkzenE0bXMubW9uZ29kYi5uZXQvP2FwcE5hbWU9RGV2b3BzLWRiCg=="
+  SECRET=ZGV2b3Bzc2hhY2sK
   
  
 
